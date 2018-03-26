@@ -1,1 +1,0 @@
-# food-ordering-mini-app
